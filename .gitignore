@@ -1,0 +1,5 @@
+chroma_db/
+work_logs/
+.venv/
+__pycache__/
+*.pyc
